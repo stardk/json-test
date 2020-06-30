@@ -9,16 +9,19 @@
                         "name": "Морковь",
                         "items": [
                             {
+                                "id": 111,
                                 "name": "Морковь 1",
                                 "weight": "1 кг",
                                 "price": 150
                             },
                             {
+                                "id": 112,
                                 "name": "Морковь 2",
                                 "weight": "1 кг",
                                 "price": 250
                             },
                             {
+                                "id": 113,
                                 "name": "Морковь 3",
                                 "weight": "1 кг",
                                 "price": 310
@@ -29,16 +32,19 @@
                         "name": "Лук",
                         "items": [
                             {
+                                "id": 121,
                                 "name": "Лук 1",
                                 "weight": "1 кг",
                                 "price": 50
                             },
                             {
+                                "id": 122,
                                 "name": "Лук 2",
                                 "weight": "1 кг",
                                 "price": 159
                             },
                             {
+                                "id": 123,
                                 "name": "Лук 3",
                                 "weight": "1 кг",
                                 "price": 210
@@ -55,16 +61,19 @@
                         "name": "Яблоки",
                         "items": [
                             {
+                                "id": 211,
                                 "name": "Яблоки 1",
                                 "weight": "1 кг",
                                 "price": 150
                             },
                             {
+                                "id": 212,
                                 "name": "Яблоки 2",
                                 "weight": "1 кг",
                                 "price": 250
                             },
                             {
+                                "id": 213,
                                 "name": "Яблоки 3",
                                 "weight": "1 кг",
                                 "price": 310
@@ -75,16 +84,19 @@
                         "name": "Персики",
                         "items": [
                             {
+                                "id": 221,
                                 "name": "Персики 1",
                                 "weight": "1 кг",
                                 "price": 50
                             },
                             {
+                                "id": 222,
                                 "name": "Персики 2",
                                 "weight": "1 кг",
                                 "price": 159
                             },
                             {
+                                "id": 223,
                                 "name": "Персики 3",
                                 "weight": "1 кг",
                                 "price": 210
@@ -96,23 +108,26 @@
         ],
         "restaurants": [
             {
-                "id": 11,
+                "id": 3,
                 "name": "Lao Wai",
                 "categories": [
                     {
                         "name": "Суши",
                         "items": [
                             {
+                                "id": 311,
                                 "name": "Ролл 1",
                                 "weight": "0.150 кг",
                                 "price": 150
                             },
                             {
+                                "id": 312,
                                 "name": "Ролл 2",
                                 "weight": "0.257 кг",
                                 "price": 260
                             },
                             {
+                                "id": 313,
                                 "name": "Ролл 3",
                                 "weight": "0.559 кг",
                                 "price": 310
@@ -123,16 +138,19 @@
                         "name": "Wok",
                         "items": [
                             {
+                                "id": 321,
                                 "name": "Wok 1",
                                 "weight": "0.150 кг",
                                 "price": 50
                             },
                             {
+                                "id": 322,
                                 "name": "Wok 2",
                                 "weight": "0.257 кг",
                                 "price": 159
                             },
                             {
+                                "id": 323,
                                 "name": "Wok 3",
                                 "weight": "0.559 кг",
                                 "price": 210
@@ -142,23 +160,26 @@
                 ]
             },
             {
-                "id": 12,
+                "id": 4,
                 "name": "Dopamine",
                 "categories": [
                     {
                         "name": "Суши",
                         "items": [
                             {
+                                "id": 411,
                                 "name": "Ролл 1",
                                 "weight": "0.150 кг",
                                 "price": 150
                             },
                             {
+                                "id": 412,
                                 "name": "Ролл 2",
                                 "weight": "0.257 кг",
                                 "price": 260
                             },
                             {
+                                "id": 413,
                                 "name": "Ролл 3",
                                 "weight": "0.559 кг",
                                 "price": 310
@@ -169,16 +190,19 @@
                         "name": "Wok",
                         "items": [
                             {
+                                "id": 421,
                                 "name": "Wok 1",
                                 "weight": "0.150 кг",
                                 "price": 50
                             },
                             {
+                                "id": 422,
                                 "name": "Wok 2",
                                 "weight": "0.257 кг",
                                 "price": 159
                             },
                             {
+                                "id": 423,
                                 "name": "Wok 3",
                                 "weight": "0.559 кг",
                                 "price": 210
@@ -188,23 +212,26 @@
                 ]
             },
             {
-                "id": 13,
+                "id": 5,
                 "name": "Subzero",
                 "categories": [
                     {
                         "name": "Суши",
                         "items": [
                             {
+                                "id": 511,
                                 "name": "Ролл 1",
                                 "weight": "0.150 кг",
                                 "price": 150
                             },
                             {
+                                "id": 512,
                                 "name": "Ролл 2",
                                 "weight": "0.257 кг",
                                 "price": 260
                             },
                             {
+                                "id": 513,
                                 "name": "Ролл 3",
                                 "weight": "0.559 кг",
                                 "price": 310
@@ -215,16 +242,19 @@
                         "name": "Wok",
                         "items": [
                             {
+                                "id": 521,
                                 "name": "Wok 1",
                                 "weight": "0.150 кг",
                                 "price": 50
                             },
                             {
+                                "id": 522,
                                 "name": "Wok 2",
                                 "weight": "0.257 кг",
                                 "price": 159
                             },
                             {
+                                "id": 523,
                                 "name": "Wok 3",
                                 "weight": "0.559 кг",
                                 "price": 210

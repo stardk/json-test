@@ -35,5 +35,19 @@
         {
             "value": "14:30" 
         }
+    ],
+    "payment_methods": [
+        {
+            "name": "Картой онлайн",
+            "value": "card_online"
+        },
+        {
+            "name": "Картой курьеру",
+            "value": "card_offline",
+        },
+        {
+            "name": "Наличными курьеру",
+            "value": "cash",
+        }
     ]
 }

@@ -43,11 +43,11 @@
         },
         {
             "name": "Картой курьеру",
-            "value": "card_offline",
+            "value": "card_offline"
         },
         {
             "name": "Наличными курьеру",
-            "value": "cash",
+            "value": "cash"
         }
     ]
 }

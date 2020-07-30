@@ -50,6 +50,16 @@
             "name":"Наличными курьеру",
             "value":"cash"
          }
+      ],
+      "delivery_methods":[
+         {
+            "name":"Доставка",
+            "value":"delivery"
+         },
+         {
+            "name":"Самовывоз",
+            "value":"pickup"
+         }
       ]
    }
 }
